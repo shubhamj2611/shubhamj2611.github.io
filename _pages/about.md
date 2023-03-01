@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Materials Engineer specialized in ceramics, construction materials and hazardous waste immobilization with 10+ years of research experience in diverse multidisciplinary projects. Skilled in planning and leading collaborative projects, as lab manager, teaching, training/mentoring new researchers, and supervising lab safety.
+{: .text-justify}
 
 **Education**
 ======
