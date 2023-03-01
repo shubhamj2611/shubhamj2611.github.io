@@ -1,0 +1,161 @@
+# Publications
+---
+references:
+- author:
+    - family: Arepalli
+      given: Sampath Kumar
+    - family: Tripathi
+      given: Himanshu
+    - family: Vyas
+      given: Vikash Kumar
+    - family: Jain
+      given: Shubham
+    - family: Suman
+      given: Shyam Kumar
+    - family: Pyare
+      given: Ram
+    - family: Singh
+      given: S.P.
+  DOI: https://doi.org/10.1016/j.msec.2015.01.049
+  year: 2015
+  title: Influence of barium substitution on bioactivity, thermal and physico-mechanical properties of bioactive glass
+  journal: "Materials Science and Engineering: C"
+  article: "Journal"
+
+- author:
+    - family: Sharma
+      given: Himani
+    - family: Jain
+      given: Shubham
+    - family: Raj
+      given: Pulugurtha Markondeya
+    - family: Murali
+      given: K.P.
+    - family: Tummala
+      given: Rao
+  DOI: https://doi.org/10.1007/s11664-015-3801-x
+  year: 2015
+  title: Magnetic and dielectric property studies in Fe-and NiFe-based polymer nanocomposites
+  journal: "Journal of Electronic Materials"
+  article: "Journal"
+
+- author:
+   - family: Bhaskar
+     given: Nitu
+   - family: Padmavathy
+     given: Nagarajan
+   - family: Jain
+     given: Shubham
+   - family: Bose
+     given: Suryasarathi
+   - family: Basu
+     given: Bikramjit
+  DOI: https://doi.org/10.1021/acsami.6b10711
+  year: 2016
+  title: Modulated in Vitro Biocompatibility of a Unique Cross-Linked Salicylic Acid–Poly(ε-caprolactone)-Based Biodegradable Polymer
+  journal: "ACS Appl. Mater. Interfaces"
+  article: "Journal"
+
+- author:
+   - family: Chakraborti
+     given: P.
+   - family: Sharma
+     given: H.
+   - family: Pulugurtha
+     given: M. R.
+   - family: Rataj
+     given: K-P
+   - family: Schnitter
+     given: C.
+   - family: Neuhart
+     given: N.
+   - family: Jain
+     given: S.
+   - family: Gandhi
+     given: S.
+   - family: Tummala
+     given: R.
+  DOI: https://doi.org/10.1109/TCPMT.2016.2602213
+  year: 2016
+  title: Ultrathin, Substrate-Integrated, and Self-Healing Nanocapacitors With Low-Leakage Currents and High-Operating Frequencies
+  journal: "IEEE Transactions on Components, Packaging and Manufacturing Technology"
+  article: "Journal"
+
+- author:
+   - family: Jain
+     given: S.
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  DOI: https://doi.org/10.1016/j.cemconcomp.2022.104679
+  year: 2022
+  title: Leaching of immobilized cesium from NaOH-activated fly ash-based geopolymers
+  journal: "Cement and Concrete Composites"
+  article: "Journal"
+
+- author:
+   - family: Jain
+     given: S.
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  DOI: https://doi.org/10.1016/j.jclepro.2022.134984
+  year: 2022
+  title: Conditioning of simulated cesium radionuclides in NaOH-activated fly ash-based geopolymers
+  journal: "Journal of Cleaner Production"
+  article: "Journal"
+
+- author:
+   - family: Onuaguluchi
+     given: O.
+   - family: Jain
+     given: S.
+   - family: Banthia
+     given: N.
+  DOI: https://doi.org/10.1016/B978-0-12-824533-0.00010-4
+  year: 2022
+  title: Leaching of concrete with mine tailings
+  book: "Advances in the Toxicity of Construction and Building Materials"
+  article: "Book"
+
+- author:
+   - family: Onuaguluchi
+     given: O.
+   - family: Jain
+     given: S.
+   - family: Banthia
+     given: N.
+  DOI: https://doi.org/10.1007/978-3-319-45098-8_13
+  year: 2016
+  title: Embedded Passives
+  book: "Materials for Advanced Packaging"
+  article: "Book"
+
+- author:
+   - family: Jain
+     given: S.
+  DOI: https://doi.org/10.14288/1.0422417
+  year: 2022
+  title: Fly ash-based geopolymers for immobilization of nuclear waste containing cesium
+  University: "University of British Columbia"
+  article: "Thesis"
+
+- author:
+   - family: Jain
+     given: S.
+  year: 2022
+  title: My title in Confernce awesome
+  conference: "Awesome conference"
+  article: "Conference"
+
+- author:
+   - family: Jain
+     given: S.
+   - family: Trowsadas
+     given: T.
+  year: 2019
+  title: My title in Confernce awesome2
+  conference: "Awesome second conference"
+  article: "Conference"
