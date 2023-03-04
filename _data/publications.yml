@@ -121,12 +121,24 @@ references:
   article: "Book"
 
 - author:
-   - family: Onuaguluchi
-     given: O.
-   - family: Jain
-     given: S.
-   - family: Banthia
-     given: N.
+   - family: Raj 
+     given: PM
+   - family: Lee
+     given: DW
+   - family: Li
+     given: L
+   - family: Wang
+     given: SX
+   - family: Chakraborti
+     given: P
+   - family: Sharma
+     given: H
+   - family:  Jain
+     given: S
+   - family: Tummala
+     given: R
+     
+     
   DOI: https://doi.org/10.1007/978-3-319-45098-8_13
   year: 2016
   title: Embedded Passives
