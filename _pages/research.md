@@ -6,10 +6,21 @@ author_profile: true
 ---
 # Projects
 
-1. **Project-1**
-   * laskhsaldkhg
-   * asgsadgsag
-   * asdgsagdsadg
+1. **Junior Research Fellow, Materials Research Center, Indian Institute of Science (Bangalore, India)**
+
+Research 1: Salicylic acid –PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications
+   * Prepared and evaluated salicylic acid-based polymer delivering an anticancer drug for post-surgical chemotherapy against cancer xenografts
+   * Assessed its in vitro drug release profile
+   * Analyzed the post degradation products
+
+Research 2: Board of Research in Nuclear Sciences (BRNS) project; “Development of particulate reinforced boron carbide-based composites for high temperature application” in collaboration with Bhabha Atomic Research Center, India, Supervisors: Prof. Bikramjit Basu, Dr. Tarashankar Mahata, Dr. T.S.R Ch Murthy and Dr. Sairam 
+   * Synthesized materials for neutron absorbance in nuclear reactors
+   * Characterized the thermal, themo-electrical, electrical and mechanical properties of these materials 
+
+Research 3: BrahMos Project; Ultra high temperature ceramics (UHTC’s) for hypersonic vehicle applications, Supervisors: Prof. Bikramjit Basu, mentors: Ms. Ragini Mukherjee, Mr. Gopinath and Mr. Anupam Purwar  
+ * Synthesized ZrB2 based ultra-high temperature ceramics
+ * Studied the thermal, electrical and mechanical properties of these materials
+
 
 
 2. **Project-2**
