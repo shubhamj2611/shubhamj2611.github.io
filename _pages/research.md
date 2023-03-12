@@ -18,7 +18,7 @@ author_profile: true
    * Characterized the thermal, themo-electrical, electrical and mechanical properties of these materials 
 
 <i><b>Research 3</b>: BrahMos Project; Ultra high temperature ceramics (UHTC’s) for hypersonic vehicle applications, Supervisors: Prof. Bikramjit Basu, mentors: Ms. Ragini Mukherjee, Mr. Gopinath and Mr. Anupam Purwar</i>  
- * Synthesized ZrB2 based ultra-high temperature ceramics
+ * Synthesized ZrB<sub>2</sub> based ultra-high temperature ceramics
  * Studied the thermal, electrical and mechanical properties of these materials
 
 
