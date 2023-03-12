@@ -62,7 +62,7 @@ author_profile: true
          <b> {{ pub.title }} </b>
          <br>
          {% for name in pub.author %}
-            {{ name.given }} {{ name.family }},
+            {{ name.given }} {{ name.family }}
          {% endfor %}
          <br>
          <i> {{ pub.University }} </i>,
