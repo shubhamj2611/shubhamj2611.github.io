@@ -6,9 +6,9 @@ author_profile: true
 ---
 # Projects
 
-1. **Junior Research Fellow, Materials Research Center, Indian Institute of Science (Bangalore, India)**
+I. **Junior Research Fellow, Materials Research Center, Indian Institute of Science (Bangalore, India)**
 
-Research 1: Salicylic acid –PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications
+<i><b>Research 1</b>: Salicylic acid –PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications</i>
    * Prepared and evaluated salicylic acid-based polymer delivering an anticancer drug for post-surgical chemotherapy against cancer xenografts
    * Assessed its in vitro drug release profile
    * Analyzed the post degradation products
@@ -23,7 +23,7 @@ Research 3: BrahMos Project; Ultra high temperature ceramics (UHTC’s) for hype
 
 
 
-2. **Project-2**
+II. **Project-2**
    * laskhsaldkhg
    * asgsadgsag
    * asdgsagdsadg
