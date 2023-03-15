@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Journal Articles </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Journal Articles </p>
 <ol>
 
 {% assign pubs = site.data.publications.references | sort: "year" | reverse %}
@@ -26,7 +26,7 @@ author_profile: true
 
 </ol>
 
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Book Chapters </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Book Chapters </p>
 <ol>
 
 {% assign pubs = site.data.publications.references | sort: "year" | reverse %}
@@ -49,7 +49,7 @@ author_profile: true
 </ol>
 
 
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Theses </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Theses </p>
 <ol>
 
 {% assign pubs = site.data.publications.references | sort: "year" | reverse %}
