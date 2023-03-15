@@ -4,7 +4,6 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
-\\
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Postdoctoral Teaching Fellow </p>
 
