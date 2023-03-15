@@ -6,6 +6,13 @@ author_profile: true
 ---
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> Postdoctoral Research Fellow, Civil Engineering Department, The University of British Columbia, Jan 2023 till current </p>
+
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Cement-based/geopolymer composites for bio-corrosion resistance in sewage pipelines </p>
+
+* Developing low-carbon materials and their placement technologies as a repair coating, which can cost-effectively prolong the lifespan of sewer infrastructure through enhanced resistance to Microbial Induced Corrosion (MIC)
+   
+
 <p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> Junior Research Fellow, Materials Research Center, Indian Institute of Science (IISc), Bangalore, India </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Salicylic acid –PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications </p>
