@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<p style="font color="blue"; font-size:30px"> <b> <center> List of Acheivements </center> </b> </p>
+<style="font color="blue"; font-size:30px"> <b> <center> List of Acheivements </center> </b>
 
 *	Recipient of President's Academic Excellence Initiative Ph.D. Award for significant contributions to the research activities of the university, UBC, 2020-2022
 *	Recipient of Science and Engineering Research Board (SERB-UBC) overseas doctoral fellowship from India, 2016-21
