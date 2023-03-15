@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Achievements"
+title: ""
 permalink: /achievements/
 author_profile: true
 ---
