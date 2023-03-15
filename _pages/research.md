@@ -4,7 +4,7 @@ title: " "
 permalink: /research/
 author_profile: true
 ---
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
 <p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia, Vancouver, Canada </p>
 
@@ -85,7 +85,7 @@ author_profile: true
  *	Concluded that conductivity and crystalline size of the samples increased with temperature
 
 
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Conference Presentations </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Conference Presentations </p>
 
 <ol>
 
