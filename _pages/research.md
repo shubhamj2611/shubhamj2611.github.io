@@ -6,7 +6,7 @@ author_profile: true
 ---
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
-<p style="text-align:left; color: Green; font-size:18px; font-weight:bold;"> I. Postdoctoral Research Fellow, Civil Engineering Department, The University of British Columbia, Vancouver, Canada </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia, Vancouver, Canada </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Cement-based/geopolymer composites for bio-corrosion resistance in sewage pipelines (Jan-Dec 2023) </p>
 
@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-<p style="text-align:left; color: Green; font-size:18px; font-weight:bold;"> II. Doctor of Philosophy, Materials Engineering Department, The University of British Columbia, Vancouver, Canada </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> II. Doctor of Philosophy, Materials Engineering, The University of British Columbia, Vancouver, Canada </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Fly ash-based geopolymers for immobilization of nuclear waste containing cesium (2016-2022) </p>
 
