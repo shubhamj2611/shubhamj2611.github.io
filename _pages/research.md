@@ -28,7 +28,7 @@ author_profile: true
    * asgsadgsag
    * asdgsagdsadg
 
-# Conference Presentations
+<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Conference Presentations </p>
 
 <ol>
 
