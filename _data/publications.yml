@@ -196,7 +196,7 @@ references:
   conference: "Materials Engineering Research Conference (MERC)"
   article: "Conference"
   
-  - author:
+- author:
    - family: Pernechele
      given: M.
    - family: Jain
@@ -208,7 +208,7 @@ references:
   conference: "56th Annual COM conference, METSOC"
   article: "Conference"
   
-    - author:
+- author:
    - family: Jain
      given: S.
    - family: Pernechele
@@ -220,7 +220,7 @@ references:
   conference: "Pacific Centre for Advanced Materials and Microstructures (PCAMM) conference, Vancouver"
   article: "Conference"
   
-     - author:
+- author:
    - family: Chalisgaonkar
      given: V.
    - family: Jain
