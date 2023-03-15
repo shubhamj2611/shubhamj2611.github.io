@@ -42,4 +42,4 @@ author_profile: true
 *	Performed as a solo artist in various musical events at IISc, Bangalore, 2016 
 *	Volunteered for an ‘Open day’ event on the earth day at IISc, aimed to enlighten professors, college/school students about the current research work carried out in the labs, 2016 
 *	Organized and volunteered for an open marathon event named ‘Sadbhavna Daud’ at IISc, Bangalore, 2016
-*	Participated as a singer and guitarist in various musical events such as ‘Jhankaar’ and ‘Bandish’ at IIT(BHU), Varanasi, 2010 – 2015
+*	Participated as a singer and guitarist in various musical events such as ‘Jhankaar’ and ‘Bandish’ at IIT(BHU), Varanasi, 2010-2015
