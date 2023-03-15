@@ -49,7 +49,7 @@ author_profile: true
  * Assisted in synthesizing ZrB<sub>2</sub> based ultra-high temperature ceramics
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> IV. M.Tech project and internship, Georgia Institute of Technology, Atlanta, Georgia  </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> IV. M.Tech project and internship, Georgia Institute of Technology, Atlanta, Georgia, U.S.A.  </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Package integrated high density thin capacitors and inductors (Jan-Mar 2015) </p>
 
