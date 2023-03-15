@@ -22,6 +22,7 @@ author_profile: true
 *	Selected as an exchange student out of 862 students from IIT BHU to pursue M.Tech project at esteemed Georgia Institute of Technology, US and received overall intern rating A+ for outstanding performance, 2015
 *	Secured excellent ‘S’ grade (Perfect 10) in the M.Tech and B.Tech projects, IIT (BHU), 2014-15
 *	Received Ministry of Human Resource Development Scholarship (India) for securing AIR 290 in Graduate Aptitude Test Examination (GATE), 2014
+*	Won 1st prize at 77th Annual Conference of Indian Ceramic Society for paper presentation, (2013)— Studies on in vitro Bioactivity of SIC / Bioactive Glass Composite
 *	Received certificate of project completion with overall intern rating of A from Georgia Institute of Technology, U.S. (GT, U.S.) for outstanding contribution during summer internship, 2013
 *	Ranked amongst top 1.2% in IIT-JEE and top 1.3% in All India Engineering Entrance Examination among over 500,000+ students, 2010
 *	Awarded “Best Student of the Year” at Indore Public School among over 200 boarding students for exceptional overall contribution in Academics, Sports and Management, 2005-07
