@@ -23,7 +23,7 @@ author_profile: true
 *	Secured excellent ‘S’ grade (Perfect 10) in the M.Tech and B.Tech projects, IIT (BHU), 2014-15
 *	Received Ministry of Human Resource Development Scholarship (India) for securing AIR 290 in Graduate Aptitude Test Examination (GATE), 2014
 *	Received certificate of project completion with overall intern rating of A from Georgia Institute of Technology, U.S. (GT, U.S.) for outstanding contribution during summer internship, 2013
-*	Ranked amongst top 1.2% in IIT-JEE and top 1.3% in All India Engineering Entrance Examination among over 900,000 students, 2010
+*	Ranked amongst top 1.2% in IIT-JEE and top 1.3% in All India Engineering Entrance Examination among over 500,000+ students, 2010
 *	Awarded “Best Student of the Year” at Indore Public School among over 200 boarding students for exceptional overall contribution in Academics, Sports and Management, 2005-07
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Extracurricular Activities </p>
@@ -35,11 +35,11 @@ author_profile: true
 *	Vice-president of the Joint student chapter (JSC) in Materials Engineering department, UBC, 2017-18
 *	Member of Graduate Student Association (GSA) and Graduate Student Society (GSS) which advocates, promotes, and protects the academic, social, intellectual, cultural and recreational interests of its members, 2017-18
 *	Organized departmental academic events including, industry night, technical talks, donut and coffee gathering etc. at UBC
-*	Managed and in charge of departmental social events including welcome back party, soccer match, hikes etc. at UBC 
+*	Managed and organized departmental social events including welcome back party, soccer match, hikes etc. at UBC 
 *	Volunteered as an Environmental team member at the Vancouver music folk festival, 2017-18
 *	Performed as a singer and guitarist in various cultural events conducted by Indian Graduate Student Association (UBC) and Indo Canadian-Caribbean cultural society of BC
-*	Active volunteer of Hindi samiti organization at Indian Institute of Science, Bangalore
-*	Performed as a solo artist in various musical events at IISc, Bangalore 
-*	Volunteered for an ‘Open day’ event on the earth day at IISc, aimed to enlighten professors, college/school students about the current research work carried out in the labs 
-*	Organized and volunteered for an open marathon event named ‘Sadbhavna Daud’ at IISc, Bangalore
+*	Volunteered for the Hindi samiti organization at Indian Institute of Science, Bangalore, 2016
+*	Performed as a solo artist in various musical events at IISc, Bangalore, 2016 
+*	Volunteered for an ‘Open day’ event on the earth day at IISc, aimed to enlighten professors, college/school students about the current research work carried out in the labs, 2016 
+*	Organized and volunteered for an open marathon event named ‘Sadbhavna Daud’ at IISc, Bangalore, 2016
 *	Participated as a singer and guitarist in various musical events such as ‘Jhankaar’ and ‘Bandish’ at IIT(BHU), Varanasi, 2010 – 2015
