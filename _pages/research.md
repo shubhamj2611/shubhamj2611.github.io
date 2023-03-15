@@ -49,6 +49,20 @@ author_profile: true
  * Assisted in synthesizing ZrB<sub>2</sub> based ultra-high temperature ceramics
 
 
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> IV. M.Tech project and internship, Georgia Institute of Technology, Atlanta, Georgia  </p>
+
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Package integrated high density thin capacitors and inductors (Jan-Mar 2015) </p>
+
+   * Anodized and fabricated several Ta capacitors using different Ta anode thickness (80nm or 380nm) at different voltages (8V, 25V, and 60V)
+   * Achieved lower dissipation factors, higher breakdown fields, narrower breakdown distributions, and lower leakage currents
+   * Analyzed the anodized tantalum oxide films for high-charge-storage capacitor applications
+
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 2: Nanomagnetic composites for antenna application (June-July 2013) </p>
+
+ * Fabricated variety of metal polymer systems with different composite loading for high frequency
+ *	Achieved significant enhancement in the volumetric density of components while simultaneously increasing the performance with miniaturization 
+ *	Demonstrated high permeability with low coercivity and loss while retaining stability at high frequencies
+
 
 
 
