@@ -13,8 +13,6 @@ author_profile: true
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Teaching Assistant </p>
 
-<p style="text-align:left; color:Black; font-size:22px; font-weight:bold;"> MTRL-382: Ceramics Lab (Jan-April, 2016-2022) </p>
-
-<p style="text-align:left; color:Black; font-size:22px; font-weight:bold;"> MTRL-467: Undergraduate Capstone Project (Jan-April, 2021) </p>
+<p style="text-align:left; color:Black; font-size:22px; font-weight:bold;"> MTRL-382: Ceramics Lab (Jan-April, 2016-2022) and MTRL-467: Undergraduate Capstone Project (Jan-April, 2021) </p>
 
 * Duties included laboratory set up, lab tutorials and oral instruction as well as demonstrating problem sets, aiding students in assignments and problem sets and subjective marking
