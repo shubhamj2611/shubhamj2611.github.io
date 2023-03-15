@@ -43,7 +43,7 @@ Duties included:
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Mentoring </p>
 
-*	Mentoring a master’s student as a postdoctoral research fellow for the NSERC Alliance Project, Jan 2023-current 
+*	Mentoring a master’s student as a postdoctoral research fellow for the NSERC Alliance Project, Jan 2023 till current 
 *	Trained and mentored 3 summer students at UBC for various research projects, 2018-2020   
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Lecture </p>       
