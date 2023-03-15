@@ -14,5 +14,6 @@ Materials Engineer specialized in ceramics, construction materials and hazardous
 **Education**
 ======
 * Ph.D., Materials Engineering, The University of British Columbia, 2016-2022
+
 * B. Tech. + M. Tech., Ceramic Engineering, IIT (BHU) Varanasi, 2010-2015
 
