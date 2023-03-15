@@ -30,7 +30,7 @@ author_profile: true
 
 * Lab manager for the UBCeram (Ceramics lab) group, 2018-2022
 *	Member of the local safety team (LST) and fire warden (first floor), Materials engineering, UBC, 2018-2022
-*	*	Worked on a joint collaborative research within multidisciplinary departmental groups UBCeram (Materials engineering) and SIERA (Civil Engineering) at UBC, 2017-2022
+*	Worked on a joint collaborative research within multidisciplinary departmental groups UBCeram (Materials engineering) and SIERA (Civil Engineering) at UBC, 2017-2022
 *	Facilitated in establishing capstone design project (MTRL-467) for the senior-level undergraduate course, UBC, 2020
 * Gained professional experience as a teaching assistant in the Ceramics lab for consecutive six years, 2017-22
 *	Vice-president of the Joint student chapter (JSC) in Materials Engineering department, UBC, 2017-18
