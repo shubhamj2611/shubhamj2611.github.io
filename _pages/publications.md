@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-**Journal articles**
+<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Journal Articles </p>
 
 <ol>
 
@@ -27,7 +27,7 @@ author_profile: true
 
 </ol>
 
-**Book Chapters**
+<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Book Chapters </p>
 
 <ol>
 
@@ -51,7 +51,7 @@ author_profile: true
 </ol>
 
 
-**Thesis**
+<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Theses </p>
 
 <ol>
 
