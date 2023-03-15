@@ -66,7 +66,22 @@ author_profile: true
 
 
 
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> V. Bachelor's and other projects, Indian Institute of Technology (BHU), Varanasi, India  </p>
 
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Synthesis of bioactive glass Nano-powders by sol gel process (Feb-Sept 2014) </p>
+
+ *	Synthesized bioactive glass nano-powders by sol-gel process at significantly lower temperature compared to conventional melt processes
+ *	Characterized and tested the biocompatibility of the BG nano-powders with simulated body fluid (SBF) 
+
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 2: Study on Bioactive Glasses (Aug-Dec 2012) </p>
+
+ *	Synthesized substituted BaO bioactive glasses by melting raw materials at 14000C with air as furnace atmosphere 
+ *	Achieved improved properties for all the barium substituted bioactive glass samples
+
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 3: Commercialization of Solid Oxide Fuel Cells (SOFC’s), Dec 2011-April 2012 </p>
+
+ *	Synthesized Co-doped Ceria electrolyte (Ce<sub>1-x-y</sub>La<sub>x</sub>Sr<sub>y</sub>O<sub>2-(x/2+y)</sub>) for intermediate temperature solid oxide fuel cells and designed pellets
+ *	Analyzed effect of heat treatment on the pellets. Concluded that conductivity and crystalline size of the samples increased with temperature
 
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Conference Presentations </p>
