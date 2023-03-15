@@ -75,13 +75,14 @@ author_profile: true
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 2: Study on Bioactive Glasses (Aug-Dec 2012) </p>
 
- *	Synthesized substituted BaO bioactive glasses by melting raw materials at 14000C with air as furnace atmosphere 
+ *	Synthesized substituted BaO bioactive glasses by melting raw materials at 1400 degC with air as furnace atmosphere 
  *	Achieved improved properties for all the barium substituted bioactive glass samples
 
-<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 3: Commercialization of Solid Oxide Fuel Cells (SOFC’s), Dec 2011-April 2012 </p>
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 3: Commercialization of Solid Oxide Fuel Cells (Dec 2011-April 2012) </p>
 
  *	Synthesized Co-doped Ceria electrolyte (Ce<sub>1-x-y</sub>La<sub>x</sub>Sr<sub>y</sub>O<sub>2-(x/2+y)</sub>) for intermediate temperature solid oxide fuel cells and designed pellets
- *	Analyzed effect of heat treatment on the pellets. Concluded that conductivity and crystalline size of the samples increased with temperature
+ *	Analyzed effect of heat treatment on the pellets
+ *	Concluded that conductivity and crystalline size of the samples increased with temperature
 
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Conference Presentations </p>
