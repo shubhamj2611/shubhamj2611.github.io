@@ -6,7 +6,7 @@ author_profile: true
 ---
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
-<p style="text-align:left; color:Black; font-size:18px; font-weight:bold;"> Junior Research Fellow, Materials Research Center, Indian Institute of Science (IISc), Bangalore </p>
+<p style="text-align:left; color:Dark Green; font-size:22px; font-weight:bold;"> Junior Research Fellow, Materials Research Center, Indian Institute of Science (IISc), Bangalore </p>
 
 <i><b>Research 1</b>: Salicylic acid –PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications</i>
    * Prepared and evaluated salicylic acid-based polymer delivering an anticancer drug for post-surgical chemotherapy against cancer xenografts
