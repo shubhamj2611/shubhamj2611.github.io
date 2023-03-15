@@ -6,9 +6,9 @@ author_profile: true
 ---
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> Postdoctoral Research Fellow, Civil Engineering Department, The University of British Columbia </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Postdoctoral Research Fellow, Civil Engineering Department, The University of British Columbia </p>
 
-<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Cement-based/geopolymer composites for bio-corrosion resistance in sewage pipelines, Jan 2023 till current </p>
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Cement-based/geopolymer composites for bio-corrosion resistance in sewage pipelines (Jan-Dec 2023) </p>
 
 * Developing low-carbon materials and their placement technologies as a repair coating, which can cost-effectively prolong the lifespan of sewer infrastructure through enhanced resistance to Microbial Induced Corrosion (MIC)
    
