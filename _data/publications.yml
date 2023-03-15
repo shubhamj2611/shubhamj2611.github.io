@@ -157,7 +157,7 @@ references:
 - author:
    - family: Jain
      given: S.
-  DOI: NA
+  DOI: Not Available
   year: 2015
   title: Fabrication and characterization of Planar Ta capacitors to  study the effect of anodization chemistry, voltage and dwell-time on capacitor behaviour
   University: "IIT(BHU), Varanasi"
@@ -166,7 +166,7 @@ references:
 - author:
    - family: Jain
      given: S.
-  DOI: NA
+  DOI: Not Available
   year: 2014
   title: Preparation and characterization of melt - derived bioactive glass containing SiO<sub>2</sub>–Na<sub>2</sub>O–CaO–P<sub>2</sub>O<sub>5</sub>–BaO
   University: "IIT(BHU), Varanasi"
@@ -175,17 +175,59 @@ references:
 - author:
    - family: Jain
      given: S.
-  year: 2022
-  title: My title in Confernce awesome
-  conference: "Awesome conference"
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  year: 2021
+  title: Processing and characterization of fly ash geopolymers for encapsulation of nuclear waste containing cesium
+  conference: "14th Pacific Rim Conference on Ceramic and Glass Technology"
   article: "Conference"
 
 - author:
    - family: Jain
      given: S.
+   - family: Banthia
+     given: N.
    - family: Troczynski
      given: T.
   year: 2019
-  title: My title in Confernce awesome2
-  conference: "Awesome second conference"
+  title: Fly ash geopolymers for Cesium containing waste immobilization
+  conference: "Materials Engineering Research Conference (MERC)"
+  article: "Conference"
+  
+  - author:
+   - family: Pernechele
+     given: M.
+   - family: Jain
+     given: S.
+   - family: Troczynski
+     given: T.
+  year: 2017
+  title: Process development for fast setting geopolymers
+  conference: "56th Annual COM conference, METSOC"
+  article: "Conference"
+  
+    - author:
+   - family: Jain
+     given: S.
+   - family: Pernechele
+     given: M.
+   - family: Troczynski
+     given: T.
+  year: 2016
+  title: Potential of Aluminosilicate Geo-Polymer cements towards green building and sustainable urban development
+  conference: "Pacific Centre for Advanced Materials and Microstructures (PCAMM) conference, Vancouver"
+  article: "Conference"
+  
+     - author:
+   - family: Chalisgaonkar
+     given: V.
+   - family: Jain
+     given: S.
+   - family: Singh
+     given: S.P.
+  year: 2013
+  title: Studies on in vitro Bioactivity of SIC / Bioactive Glass Composite
+  conference: "77th Annual Conference of Indian Ceramic Society, Jamshedpur, India"
   article: "Conference"
