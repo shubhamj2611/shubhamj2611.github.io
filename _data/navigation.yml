@@ -10,7 +10,7 @@ main:
     url: /teaching/
     
   - title: "Achievements and Extracurriculars"
-    url: /achievements/
+    #url: /achievements/
 
   - title: "CV"
     url: /cv/
