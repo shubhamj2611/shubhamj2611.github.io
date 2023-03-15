@@ -20,7 +20,7 @@ Duties included:
 
 <p style="text-align:left; color:Black; font-size:20px; font-weight:bold;"> MTRL-382: Undergraduate Ceramics Lab (Jan-April, 2016-2022) </p>
 
-Assisted 300+ students for this lab over the years
+* Assisted 300+ students for this lab over the years
 
 Duties included:
 *  Laboratory set up
@@ -32,7 +32,7 @@ Duties included:
 
 <p style="text-align:left; color:Black; font-size:20px; font-weight:bold;"> MTRL-467: Undergraduate Capstone Project (Jan-April, 2021) </p>
 
-Mentored 21 senior-level undergraduate students for the project
+* Mentored 21 senior-level undergraduate students for the project
 
 Duties included:
 *  Laboratory set up
