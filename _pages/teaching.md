@@ -38,5 +38,5 @@ author_profile: true
 
 <p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Mentor </p>
 
-*	Mentoring a master’s student as a Postdoctoral research fellow, Jan 2023 to current 
-*	Trained and mentored 3 summer students at UBC, 2018-2020                                                                         
+*	Mentoring a master’s student as a postdoctoral research fellow for the NSERC Alliance Project, Jan 2023-current 
+*	Trained and mentored 3 summer students at UBC for various research projects, 2018-2020                                                                         
