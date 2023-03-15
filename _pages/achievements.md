@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> List of Achievements </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> List of Achievements </p>
 
 *	Recipient of President's Academic Excellence Initiative Ph.D. Award for significant contributions to the research activities of the university, UBC, 2020-2022
 *	Recipient of Science and Engineering Research Board (SERB-UBC) overseas doctoral fellowship from India, 2016-21
@@ -27,7 +27,7 @@ author_profile: true
 *	Ranked amongst top 1.2% in IIT-JEE and top 1.3% in All India Engineering Entrance Examination among over 500,000+ students, 2010
 *	Awarded “Best Student of the Year” at Indore Public School among over 200 boarding students for exceptional overall contribution in Academics, Sports and Management, 2005-07
 
-<p style="text-align:center; color:Blue; font-size:30px; font-weight:bold;"> Extracurricular Activities </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Extracurricular Activities </p>
 
 * Lab manager for the UBCeram (Ceramics lab) group, 2018-2022
 *	Member of the local safety team (LST) and fire warden (first floor), Materials engineering, UBC, 2018-2022
