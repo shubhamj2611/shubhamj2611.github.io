@@ -12,7 +12,7 @@ redirect_from:
 <p style="text-align:justify; font-size=22px;"> Materials Engineer specialized in ceramics, construction materials and hazardous waste immobilization with 10+ years of research experience in diverse multidisciplinary projects. Skilled in planning and leading collaborative projects, as lab manager, teaching, training/mentoring new researchers, and supervising lab safety. </p>
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Current Position </p>
-* Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia
+Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia
 
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Education </p>
