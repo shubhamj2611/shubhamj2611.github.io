@@ -9,6 +9,7 @@ author_profile: true
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> List of Achievements </p>
 
 *	Recipient of President's Academic Excellence Initiative Ph.D. Award for significant contributions to the research activities of the university, UBC, 2020-2022
+*	Highly Qualified Personnel (HQP) at the IC-IMPACTS Research Centre of Excellence (the India-Canada Centre for Innovative Multidisciplinary Partnerships to Accelerate Community Transformation and Sustainability), 2017-2022 
 *	Recipient of Science and Engineering Research Board (SERB-UBC) overseas doctoral fellowship from India, 2016-21
 *	Recipient of J Keith Brimacombe Memorial Scholarship for the most exceptional graduate research work in the Materials Engineering Department, UBC, 2020
 *	Recipient of John S. Nadeau memorial scholarship for research excellence with exceptional service to the graduate student community in the Materials Engineering Department, UBC, 2018 
