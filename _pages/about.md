@@ -19,5 +19,5 @@ redirect_from:
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Education </p>
 * Ph.D., Materials Engineering, The University of British Columbia, 2016-2022
-* B. Tech. + M. Tech., Ceramic Engineering, IIT (BHU) Varanasi, 2010-2015
+* B. Tech. and M. Tech., Ceramic Engineering, IIT (BHU) Varanasi, 2010-2015
 
