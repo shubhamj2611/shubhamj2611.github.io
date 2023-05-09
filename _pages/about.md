@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> About Me </p>
-<p style="text-align:justify; font-size=22px;"> Materials Engineer specialized in ceramics, construction materials and hazardous waste immobilization with 10+ years of research experience in diverse multidisciplinary projects. Possess advanced academic qualifications, specialized skills, and in-depth knowledge necessary to conduct research and development activities in specific areas of focus such as sustainable cementitious materials. Proficient in strategizing and overseeing cooperative research initiatives, adept at managing laboratory operations, experienced in instructing, educating, and guiding researchers, and knowledgeable in monitoring and ensuring laboratory safety. </p>
+<p style="text-align:justify; font-size=22px;"> Materials Engineer specialized in ceramics, cementitious/construction materials and hazardous waste immobilization with 10+ years of research experience in diverse multidisciplinary projects. Possess advanced academic qualifications, specialized skills, and in-depth knowledge necessary to conduct research and development activities in specific areas of focus such as sustainable cementitious materials. Proficient in strategizing and overseeing cooperative research initiatives, adept at managing laboratory operations, experienced in instructing, educating, and guiding researchers, and knowledgeable in monitoring and ensuring laboratory safety. </p>
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Current Positions </p>
 * Postdoctoral Research Fellow, Sustainable Infrastructure Research Group (SIERA), Civil Engineering, The University of British Columbia
