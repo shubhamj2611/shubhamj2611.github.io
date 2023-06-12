@@ -106,6 +106,21 @@ references:
   title: Conditioning of simulated cesium radionuclides in NaOH-activated fly ash-based geopolymers
   journal: "Journal of Cleaner Production"
   article: "Journal"
+  
+  - author:
+   - family: Jain
+     given: S.
+   - family: Roy
+     given: S.
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  DOI: https://doi.org/10.1007/s10853-023-08653-7
+  year: 2023
+  title: Kinetics of in-situ pollucite crystallization in relation to cesium immobilization in the fly ash-based geopolymers
+  journal: "Journal of Materials Science"
+  article: "Journal"
 
 - author:
    - family: Onuaguluchi
