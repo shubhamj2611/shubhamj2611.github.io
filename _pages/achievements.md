@@ -29,7 +29,8 @@ author_profile: true
 *	Awarded “Best Student of the Year” at Indore Public School among over 200 boarding students for exceptional overall contribution in Academics, Sports and Management, 2005-07
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Extracurricular Activities </p>
-
+* Member of technical committee for Smart & Sustainable Infrastructures, RILEM, June 2023-current
+* Executive team member of the UBC Postdoctoral Association, June 2023-current
 * Lab manager for the UBCeram (Ceramics lab) group, 2018-2022
 *	Member of the local safety team (LST) and fire warden (first floor), Materials engineering, UBC, 2018-2022
 *	Worked on a joint collaborative research within multidisciplinary departmental groups UBCeram (Materials engineering) and SIERA (Civil Engineering) at UBC, 2017-2022
