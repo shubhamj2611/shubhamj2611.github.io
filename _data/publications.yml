@@ -107,7 +107,7 @@ references:
   journal: "Journal of Cleaner Production"
   article: "Journal"
   
-  - author:
+- author:
    - family: Jain
      given: S.
    - family: Roy
