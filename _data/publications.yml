@@ -186,6 +186,18 @@ references:
   title: Preparation and characterization of melt - derived bioactive glass containing SiO<sub>2</sub>–Na<sub>2</sub>O–CaO–P<sub>2</sub>O<sub>5</sub>–BaO
   University: "IIT(BHU), Varanasi"
   article: "Thesis"
+
+- author:
+   - family: Jain
+     given: S.
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  year: 2023
+  title: Geopolymer-based ceramic matrix composites for nuclear waste immobilization
+  conference: "Thermec 2023: International conference on processing & manufacturing of advanced materials, Vienna, Austria "
+  article: "Conference"
   
 - author:
    - family: Jain
