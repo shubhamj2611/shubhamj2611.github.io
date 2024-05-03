@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia, Vancouver, Canada </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> II. Postdoctoral Research Fellow, Civil Engineering, The University of British Columbia, Vancouver, Canada </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Cement-based/geopolymer composites for bio-corrosion resistance in sewage pipelines (Jan-Dec 2023) </p>
 
@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> II. Doctor of Philosophy, Materials Engineering, The University of British Columbia, Vancouver, Canada </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> III. Doctor of Philosophy, Materials Engineering, The University of British Columbia, Vancouver, Canada </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Fly ash-based geopolymers for immobilization of nuclear waste containing cesium (2016-2022) </p>
 
@@ -39,7 +39,7 @@ author_profile: true
 
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> III. Junior Research Fellow, Materials Research Center, Indian Institute of Science (IISc), Bangalore, India </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> IV. Junior Research Fellow, Materials Research Center, Indian Institute of Science (IISc), Bangalore, India </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Salicylic acid–PCL based biodegradable polymeric implant for cancer therapy and anti-cancer applications (Dec 2015-May 2016) </p>
 
@@ -57,7 +57,7 @@ author_profile: true
  * Assisted in synthesizing ZrB<sub>2</sub> based ultra-high temperature ceramics
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> IV. Master's project and internship, Georgia Institute of Technology, Atlanta, Georgia, U.S.A.  </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> V. Master's project and internship, Georgia Institute of Technology, Atlanta, Georgia, U.S.A.  </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Package integrated high density thin capacitors and inductors (Jan-Mar 2015) </p>
 
@@ -74,7 +74,7 @@ author_profile: true
 
 
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> V. Bachelor's and other projects, Indian Institute of Technology (BHU), Varanasi, India  </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> VI. Bachelor's and other projects, Indian Institute of Technology (BHU), Varanasi, India  </p>
 
 <p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research 1: Synthesis of bioactive glass Nano-powders by sol gel process (Feb-Sept 2014) </p>
 
