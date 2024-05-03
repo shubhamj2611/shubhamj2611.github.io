@@ -6,11 +6,11 @@ author_profile: true
 ---
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Projects </p>
 
-<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Research Associate, Chemical and Biological Department, The University of Sheffield, South Yorkshire, United Kingdom </p>
+<p style="text-align:left; color: Green; font-size:20px; font-weight:bold;"> I. Research Associate @SMASH group, Chemical and Biological Department, The University of Sheffield, South Yorkshire, United Kingdom </p>
 
-<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Industrial waste valorisation in cementitious systems </p>
+<p style="text-align:left; color: black; font-size:18px; font-weight:bold;"> Research: Industrial waste valorization in the cementitious systems </p>
 
-* The project is focused on the valorization of industrial waste for the development of sustainable cementitious systems, funded by GreenLithium
+* The current project is focused on the valorization of industrial waste for the development of sustainable cementitious systems, funded by GreenLithium
 
 
 
