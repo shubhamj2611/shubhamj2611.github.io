@@ -15,8 +15,8 @@ redirect_from:
 * Research Associate at the Sustainable Materials Group (SMASH), Chemical and Biological Engineering, The University of Sheffield, United Kingdom
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Former Positions </p>
- * Postdoctoral Research Fellow, Sustainable Infrastructure Research Group (SIERA), Civil Engineering, The University of British Columbia, Canada
- * Highly Qualified Personnel, IC-IMPACTS Research Centre of Excellence, Canada       
+* Postdoctoral Research Fellow, Sustainable Infrastructure Research Group (SIERA), Civil Engineering, The University of British Columbia, Canada
+* Highly Qualified Personnel, IC-IMPACTS Research Centre of Excellence, Canada       
 
             
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Education </p>
