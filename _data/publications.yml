@@ -123,6 +123,21 @@ references:
   article: "Journal"
 
 - author:
+   - family: Jain
+     given: S.
+   - family: Onuaguluchi
+     given: O.
+   - family: Banthia
+     given: N.
+   - family: Troczynski
+     given: T.
+  DOI: https://doi.org/10.1111/jace.20131
+  year: 2024
+  title: Advancements in immobilization of cesium and strontium radionuclides in cementitious wasteforms—A review
+  journal: "Journal of the American Ceramic Society"
+  article: "Journal"
+  
+- author:
    - family: Onuaguluchi
      given: O.
    - family: Jain
