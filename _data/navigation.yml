@@ -10,7 +10,7 @@ main:
     url: /achievements/
 
   - title: "Certifications and Courses"
-    url: /certificates_courses/
+    url: /certificates/
     
   - title: "Teaching"
     url: /teaching/
