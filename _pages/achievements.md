@@ -8,6 +8,7 @@ author_profile: true
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> List of Achievements </p>
 
+* Nominated for outstanding Post Doc and as a Postdoc of the year at the University of Sheffield during the Post Doc Appreciation Week as part of the Think Ahead program and CMBE winter ball, 2024
 *	Recipient of President's Academic Excellence Initiative Ph.D. Award for significant contributions to the research activities of the university, UBC, 2020-2022
 *	Highly Qualified Personnel (HQP) at the IC-IMPACTS Research Centre of Excellence (the India-Canada Centre for Innovative Multidisciplinary Partnerships to Accelerate Community Transformation and Sustainability), 2017-2023
 *	Recipient of Science and Engineering Research Board (SERB-UBC) overseas doctoral fellowship from India, 2016-21
