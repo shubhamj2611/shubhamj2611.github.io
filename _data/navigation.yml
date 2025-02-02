@@ -5,11 +5,16 @@ main:
 
   - title: "Research"
     url: /research/
-
-  - title: "Teaching"
-    url: /teaching/
     
   - title: "Achievements and Extracurriculars"
     url: /achievements/
+
+    - title: "Certifications and Courses"
+    url: /achievements/
+
+    - title: "Teaching"
+    url: /teaching/
+
+    
 
 
