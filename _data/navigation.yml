@@ -8,9 +8,6 @@ main:
     
   - title: "Achievements and Extracurriculars"
     url: /achievements/
-
-  - title: "Certifications and Courses"
-    url: /certificates/
     
   - title: "Teaching"
     url: /teaching/
