@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /certificates and courses/
+permalink: /certificates_courses/
 author_profile: true
 ---
 
