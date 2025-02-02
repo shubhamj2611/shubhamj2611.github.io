@@ -1,4 +1,4 @@
-# main links links
+ti# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -10,7 +10,7 @@ main:
     url: /achievements/
 
   - title: "Certifications and Courses"
-    url: /achievements/
+    url: /Certifications and Courses/
 
   - title: "Teaching"
     url: /teaching/
