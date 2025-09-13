@@ -201,7 +201,31 @@ references:
   title: Preparation and characterization of melt - derived bioactive glass containing SiO<sub>2</sub>–Na<sub>2</sub>O–CaO–P<sub>2</sub>O<sub>5</sub>–BaO
   University: "IIT(BHU), Varanasi"
   article: "Thesis"
-
+  
+- author:
+   - family: Jain
+     given: S.
+   - family: Geddes
+     given: D.
+   - family: Walkley
+     given: T.
+  year: 2025
+  title: 1.	Novel Sustainable Low-Carbon Cements via Waste Valorisation: A pathway to circular economy, decarbonization and resource efficiency
+  conference: "Engineering Research Symposium: University of Sheffield, UK"
+  article: "Conference"
+  
+- author:
+   - family: Jain
+     given: S.
+   - family: Geddes
+     given: D.
+   - family: Walkley
+     given: T.
+  year: 2025
+  title: 2.	Innovative Low-Carbon Cementitious Systems via Industrial Waste Valorization: A step towards decarbonization, circular economy and resource efficiency 
+  conference: "ChemEngDayUK2025: Conference on chemical engineering research, innovation, and technology, Sheffield, UK"
+  article: "Conference"
+  
 - author:
    - family: Jain
      given: S.
