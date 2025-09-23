@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About Me
 
-<p style="text-align:justify; font-size=20px;"> I am a Materials Scientist and Engineer (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites. My work focuses on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.</p>
+<p style="text-align:justify; font-size=20px;"> I am a Materials Scientist and Engineer (Ph.D., University of British Columbia; B.Tech. and M.Tech., IIT-BHU) with over 10 years of experience in sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites. My work focuses on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.</p>
 
 <p style="text-align:justify; font-size=20px;"> My expertise includes advanced material characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, Reactivity and Mechanical Tests) and performance evaluation (bio-corrosion resistance, radionuclide immobilization, dissolution and leaching studies, long-term durability). I apply these methods to design and optimize materials that address industry challenges while meeting sustainability goals.</p>
 
