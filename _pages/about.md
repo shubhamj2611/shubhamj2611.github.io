@@ -9,15 +9,13 @@ redirect_from:
 ---
 # About Me
 
-<p style="text-align:justify; font-size=22px;"> 
-  
-I am a **Materials Scientist and Engineer** (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in **sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites**. My work focuses on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.
+<p style="text-align:justify; font-size=22px;"> I am a **Materials Scientist and Engineer** (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in **sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites**. My work focuses on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit. </p>
 
-My expertise includes advanced material characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, Reactivity and Mechanical Tests) and performance evaluation (bio-corrosion resistance, radionuclide immobilization, dissolution and leaching studies, long-term durability). I apply these methods to design and optimize materials that address industry challenges while meeting sustainability goals.
+<p style="text-align:justify; font-size=22px;"> My expertise includes advanced material characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, Reactivity and Mechanical Tests) and performance evaluation (bio-corrosion resistance, radionuclide immobilization, dissolution and leaching studies, long-term durability). I apply these methods to design and optimize materials that address industry challenges while meeting sustainability goals. </p>
 
-My doctoral research focused on **geopolymers and nuclear waste immobilization**, deepening my expertise in engineering cement-based and ceramic systems for long-term stability and reliable performance in extreme environments. My involvement in scientific publishing and peer review further strengthened my ability to critically assess emerging technologies and deliver rigorous, evidence-based insights.
+<p style="text-align:justify; font-size=22px;"> My doctoral research focused on **geopolymers and nuclear waste immobilization**, deepening my expertise in engineering cement-based and ceramic systems for long-term stability and reliable performance in extreme environments. My involvement in scientific publishing and peer review further strengthened my ability to critically assess emerging technologies and deliver rigorous, evidence-based insights. </p>
 
-Alongside technical expertise, I contribute to **mentorship, project supervision, and industry–academic engagement**, while also creating innovative STEM outreach activities that make sustainability concepts accessible to wider audiences.
+<p style="text-align:justify; font-size=22px;"> Alongside technical expertise, I contribute to **mentorship, project supervision, and industry–academic engagement**, while also creating innovative STEM outreach activities that make sustainability concepts accessible to wider audiences. </p>
 
 ---
 
