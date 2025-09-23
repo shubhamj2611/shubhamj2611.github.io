@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> About Me </p>
-<p style="text-align:justify; font-size=22px;"> I am a Materials Scientist and Engineer (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites. My work is centered on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.
+# About Me
+
+I am a Materials Scientist and Engineer (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites. My work is centered on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.
 
 My expertise includes advanced material characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, reactivity and mechanical tests) and performance evaluation (bio-corrosion resistance, radionuclide immobilization, dissolution and leaching studies, long-term durability). I apply these methods to design and optimize materials that address industry challenges while meeting sustainability goals.
 
@@ -17,27 +18,19 @@ My doctoral research focused on geopolymers and nuclear waste immobilization, de
 
 Alongside technical expertise, I contribute to mentorship, project supervision, and industry–academic engagement, while also creating innovative STEM outreach activities that make sustainability concepts accessible to wider audiences.
 
-Skills:
+## Skills
 
-● Sustainable Cements & Low-Carbon Materials
+- Sustainable Cements & Low-Carbon Materials
+- Industrial By-product Valorization & Circular Economy
+- Advanced Ceramics & Composites
+- Nuclear Waste Immobilization & Hazardous Waste Management
+- Advanced Characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, Reactivity and Mechanical tests)
+- Durability & Performance Testing (bio-corrosion, dissolution and leaching studies, long-term stability)
+- R&D Leadership & Collaboration
+- Technical Writing, Peer Review & Editorial Work
+- Mentoring & Project Supervision
+- Stakeholder Engagement & Science Communication
 
-● Industrial By-product Valorization & Circular Economy
-
-● Advanced Ceramics & Composites
-
-● Nuclear Waste Immobilization & Hazardous Waste Management
-
-● Advanced Characterization (XRD, SEM/EDX, BET, TGA/DSC, FTIR, µ-CT, Reactivity and Mechanical tests)
-
-● Durability & Performance Testing (bio-corrosion, dissolution and leaching studies, long-term stability)
-
-● R&D Leadership & Collaboration
-
-● Technical Writing, Peer Review & Editorial Work
-
-● Mentoring & Project Supervision
-
-● Stakeholder Engagement & Science Communication. </p>
 
 <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Current Position </p>
 * Research Associate at the Sustainable Materials Group (SMASH), Chemical and Biological Engineering, The University of Sheffield, United Kingdom
