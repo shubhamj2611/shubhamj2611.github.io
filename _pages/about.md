@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 About Me
+- # 👋 About Me
 
 I am a **Materials Scientist and Engineer** (Ph.D., University of British Columbia; B.Tech. + M.Tech., IIT-BHU) with over 10 years of experience in **sustainable materials, low-carbon cements, advanced ceramics, and waste-derived composites**. My work focuses on low-carbon binder technologies, industrial by-product valorization, and durability testing, consistently delivering solutions that combine technical performance, scalability, and environmental benefit.
 
