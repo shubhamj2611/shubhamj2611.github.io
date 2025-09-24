@@ -210,6 +210,18 @@ references:
    - family: Walkley
      given: B.
   year: 2025
+  title: "Analcime Sand: A Novel Additive for Low-Carbon Cement Systems"
+  conference: "4th International Conference of Sustainable Building Materials, Eindhoven, the Netherlands"
+  article: "Conference"  
+  
+- author:
+   - family: Jain
+     given: S.
+   - family: Geddes
+     given: D.
+   - family: Walkley
+     given: B.
+  year: 2025
   title: "Novel Sustainable Low-Carbon Cements via Waste Valorisation: A pathway to circular economy, decarbonization and resource efficiency"
   conference: "Engineering Research Symposium: University of Sheffield, UK"
   article: "Conference"
