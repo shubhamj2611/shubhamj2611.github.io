@@ -207,6 +207,20 @@ references:
      given: S.
    - family: Geddes
      given: D.
+   - family: Rubens
+     given: M.
+   - family: Walkley
+     given: B.
+  year: 2025
+  title: "A Novel Pathway to Low-Carbon Cements via Analcime Sand Valorisation"
+  conference: "RILEM Youth Symposium: Online"
+  article: "Conference"
+  
+- author:
+   - family: Jain
+     given: S.
+   - family: Geddes
+     given: D.
    - family: Walkley
      given: B.
   year: 2025
