@@ -18,10 +18,9 @@ redirect_from:
 <p style="text-align:justify; font-size=20px;"> Alongside technical expertise, I contribute to mentorship, project supervision, and industry–academic engagement, while also creating innovative STEM outreach activities that make sustainability concepts accessible to wider audiences.</p>
 ---
 
-<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Current Position </p>
-* Research Associate at the Sustainable Materials Group (SMASH), Chemical and Biological Engineering, The University of Sheffield, United Kingdom
 
-<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Former Positions </p>
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Professional Experiences </p>
+* Research Associate at the Sustainable Materials Group (SMASH), Chemical and Biological Engineering, The University of Sheffield, United Kingdom
 * Postdoctoral Research Fellow, Sustainable Infrastructure Research Group (SIERA), Civil Engineering, The University of British Columbia, Canada
 * Highly Qualified Personnel, IC-IMPACTS Research Centre of Excellence, Canada       
 
