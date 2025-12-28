@@ -29,3 +29,6 @@ redirect_from:
 * Ph.D., Materials Engineering, The University of British Columbia, 2016-2022
 * B. Tech. and M. Tech., Ceramic Engineering, IIT (BHU) Varanasi, 2010-2015
 
+<p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Professional Societies </p>
+* RILEM, 2024-Current
+* Institute of Materials, Minerals & Mining (IOM3), 2024-Current
